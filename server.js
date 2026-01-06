@@ -14,7 +14,7 @@ connectDB();
 const allowedOrigins = [
   "http://localhost:5173",          // Vite dev
   "http://localhost:3000",          // fallback
-  "https://flowtoo.vercel.app",     // CHANGE to your real Vercel domain
+  "https://flowtoo-frontend.vercel.app",     // CHANGE to your real Vercel domain
 ];
 
 const corsOptions = {
